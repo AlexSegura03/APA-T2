@@ -1,0 +1,370 @@
+    1  sudo apt update
+    2  sudo apt upgrade
+    3  help(help)
+    4  4+4
+    5  sudo apt install python3
+    6  python3
+    7  wsl
+    8  sudo apt install wsl
+    9  python3
+   10  sudo apt install wsl
+   11  sudo apt install ipython3
+   12  apt update
+   13  apt install
+   14  4+4
+   15  ipython3
+   16  exit()
+   17  ipython3
+   18  exit
+   19  ipython3
+   20  wsl
+   21  ipython3
+   22  sudo apt update
+   23  sudo apt install socks
+   24  ls
+   25  sudo apt sounddevice
+   26  4+4
+   27  sudo apt install sox
+   28  pip install soundfile as sf
+   29  sudo apt install python3-pip
+   30  ls
+   31  pip install jupyterlab
+   32  python3.12 -m venv APA
+   33  sudo apt install python3.12
+   34  python3.12 -m venv APA
+   35  source APA/bin/activate
+   36  pip list
+   37  python3.12 -m venv APA
+   38  sudo apt install python3.12
+   39  python3.12 -m venv apa
+   40  sudo apt install python3.12-venv
+   41  python3.12 -m venv apa
+   42  source apa/bin/activate
+   43  deactivate 
+   44  source apa/bin/activate
+   45  pip install jupyterlab
+   46  ls
+   47  APA/bin/activate
+   48  apa/bin/activate
+   49  deactivate 
+   50  dir apa
+   51  pip list
+   52  apa/bin/activate
+   53  deactivate
+   54  apa/bin/activate
+   55  exit
+   56  4+4
+   57  ls
+   58  pip list
+   59  jupyter-lab
+   60  jobs
+   61  sudo apt install firefox
+   62  firefox
+   63  pkdir APA
+   64  mkdir APA
+   65  cd APA
+   66  unzip /mnt/c/Users/Cliente/OneDrive/Escritorio/XD/AUDIOVISUALS/Q6/Algorísmia\ i\ Programació\ Audiovisual/APA-T1.zip 
+   67  sudo apt install unzip
+   68  unzip /mnt/c/Users/Cliente/OneDrive/Escritorio/XD/AUDIOVISUALS/Q6/Algorísmia\ i\ Programació\ Audiovisual/APA-T1.zip 
+   69  jupyter-lab
+   70  apa/bin/activate
+   71  source apa/bin/activate
+   72  deactivate 
+   73  source apa/bin/activate
+   74  ls
+   75  nano .profile
+   76  jupyter-lab
+   77  firefox
+   78  jupyter-lan
+   79  jupyter-lab
+   80  ipython
+   81  firefox
+   82  pip install matplotlib as plt
+   83  import numpy as np
+   84  ipyhton
+   85  ipython
+   86  python
+   87  ipython
+   88  jupyter-lab
+   89  firefox
+   90  find ~ -name "luzbel44.wav"
+   91  ipythpn
+   92  ipython
+   93  firefox
+   94  jupyter-lab
+   95  firefox
+   96  firefox
+   97  ipython
+   98  jupyter-lab
+   99  firefox
+  100  jupyter-lab
+  101  jupyter-lb
+  102  jupyter-lab
+  103  pip install tk
+  104  ipython
+  105  exit
+  106  deactivate
+  107  deactivate
+  108  man ps
+  109  /ppid
+  110  ps
+  111  man ps
+  112  psman ps
+  113  man ps
+  114  ps -o pid,tty,cmd
+  115  ps -o pid, comm
+  116  ps -o pid, cmd
+  117  firefox
+  118  numero  = 33
+  119  ipython
+  120  jupyter-lab
+  121  ipython3
+  122  code .
+  123  git status
+  124  git https://github.com/AlexSegura03/Practicas-PD
+  125  unzip
+  126  unzip C:/Users/Cliente/OneDrive/Escritorio/XD/AUDIOVISUALS/Q6/Algorísmia i Programació Audiovisual/APA-T2-main.zip
+  127  git status
+  128  cd apa
+  129  exit
+  130  nkdir apa
+  131  mkdir apa
+  132  dir
+  133  git commit
+  134  ls
+  135  unzip C:/Users/Cliente/OneDrive/Escritorio/XD/AUDIOVISUALS/Q6/Algorísmia i Programació Audiovisual/APA-T2-main
+  136  unzip Users/Cliente/OneDrive/Escritorio/XD/AUDIOVISUALS/Q6/Algorísmia i Programació Audiovisual/APA-T2-main
+  137  cd
+  138  apa cd
+  139  cd APA-T2
+  140  code .
+  141  ls
+  142  unzip
+  143  git commt
+  144  git commit
+  145  ls
+  146  deactivate
+  147  ls
+  148  add APA-T2
+  149  CLC
+  150  clear
+  151  apa/bin/activate
+  152  git add .
+  153  ls
+  154  open APA
+  155  APA
+  156  hfurfhurfhfuh
+  157  cd apa
+  158  mkdir apa
+  159  deactivae
+  160  deactivate
+  161  mkdir apa
+  162  cd apa
+  163  apa
+  164  apa/bin/activate
+  165  apa/activate
+  166  dir
+  167  help git
+  168  git
+  169  print('PUTA REAL MADRID')
+  170  mkdir apa
+  171  code .
+  172  cd apa
+  173  git clone https://github.com/AlexSegura03/APA-T2.git
+  174  cd APA-T2
+  175  code .
+  176  git status
+  177  git add .
+  178  git status
+  179  git commit
+  180  git config --global user.name "Alex Segura"
+  181  git commit
+  182  git push
+  183  gitpush
+  184  git push
+  185  git status
+  186  ipython
+  187  cd APA-T2
+  188  cd apa
+  189  cd APA-T2
+  190  python3 primos.py
+  191  esPrimo(5)
+  192  python3 primos.py  -v
+  193  help(esPrimo)
+  194  save 250313_APA
+  195  save 250313_APA.txt
+  196  sudo apt install atfs
+  197  save 250313_APA.txt
+  198  save 250313_APA.txt.py
+  199  esPrimo.__doc__esPrimo.__doc__.upper
+  200  save
+  201  save 250313_APA.txt
+  202  git
+  203  firefox
+  204  firefox
+  205  jupyter-lab
+  206  code .
+  207  git 
+  208  git https://github.com/AlexSegura03/APA-T2.git
+  209  git push
+  210  git commit
+  211  git push
+  212  git https://github.com/AlexSegura03/APA-T2.git
+  213  DIR
+  214  dir
+  215  dir APA
+  216  cd
+  217  cd apa
+  218  ls
+  219  dir APA-T2
+  220  cd
+  221  cd APA
+  222  ls
+  223  dir APA-T1
+  224  history > comandos.txt
+  225  cat comandos.txt
+  226  dir APA-T1
+  227  git init
+  228  git branch -m mestre
+  229  git remote add origin https://github.com/AlexSegura03/APA-TOTAL.git
+  230  git push -u origin mestre
+  231  git branch -M mestre
+  232  git push -u origin mestre
+  233  git branch -m mestre
+  234  git push -u origin mestre
+  235  git checkout mestre
+  236  git branch mestre
+  237  git push
+  238  git push --set-upstream origin mestre
+  239  l
+  240  ls
+  241  git status
+  242  git add .
+  243  ls
+  244  cd
+  245  dir APA
+  246  dir APA-T1
+  247  ls
+  248  cd
+  249  dir APA
+  250  LS
+  251  ls
+  252  cd
+  253  cd APA
+  254  cd APA-T1
+  255  ls
+  256  git add .
+  257  git commit -m "Classes APA"
+  258  d
+  259  cd
+  260  cd APA
+  261  ls
+  262  git add .
+  263  git commit -m
+  264  git commit -m 'classes APA'
+  265  git push
+  266  ls
+  267  git status
+  268  git remote show origin
+  269  git checkout mestre
+  270  git remote add origin https://github.com/AlexSegura03/APA-TOTAL.git
+  271  ls
+  272  history comandos.txt
+  273  history > comandos.txt
+  274  cat comandos.txt
+  275  jupyter-lab
+  276  ls
+  277  cd APA
+  278  ls
+  279  cd
+  280  ls
+  281  APA
+  282  cd APA
+  283  git add .
+  284  git commit -m "Classes APA"
+  285  git push
+  286  git push --set-upstream origin mestre
+  287  git push
+  288  ls
+  289  deactivate
+  290  source APA/bin/activate
+  291  ls
+  292  cd
+  293  ls
+  294  source apa/bin/activate
+  295  cd APA
+  296  cd
+  297  cd apa
+  298  ls
+  299  cd apa
+  300  ls
+  301  cd
+  302  cd APA
+  303  LS
+  304  ls
+  305  cd
+  306  cd apa
+  307  ls
+  308  cd APA-T2
+  309  ls
+  310  code .
+  311  cd APA-TOTAL
+  312  cd
+  313  ls
+  314  cd APA
+  315  ls
+  316  git status
+  317  mk dir APA-TOTAL
+  318  ls
+  319  cd
+  320  cd ap
+  321  cd apa
+  322  ls
+  323  cd APA-T2
+  324  LS
+  325  ls
+  326  cd
+  327  cd APA
+  328  git push
+  329  code .
+  330  cd
+  331  ls
+  332  cd APA
+  333  ls
+  334  git status
+  335  cd APA-T1
+  336  git status
+  337  ls -a ..
+  338  ls
+  339  cd apa
+  340  ls
+  341  cd APA-T2
+  342  git status
+  343  git add .
+  344  git commit
+  345  git push
+  346  git status
+  347  code .
+  348  ls
+  349  cd apa
+  350  ls
+  351  cd APA-T2
+  352  ls
+  353  code .
+  354  ls
+  355  cd apa
+  356  cd APA-T2
+  357  ls
+  358  jupyter-lab
+  359  ls
+  360  cd apa
+  361  ls
+  362  cd
+  363  ls
+  364  cd APA
+  365  ls
+  366  cd apa
+  367  ls
+  368  cd APA-T2
+  369  ipython
+  370  history > apat2.txt
